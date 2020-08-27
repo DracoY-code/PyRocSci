@@ -1,7 +1,6 @@
 # PyRocSci ༼ つ ◕_◕ ༽つ
-### 							 											 __<u>Rock Paper Scissors with <i>Python</i>:snake:</u>__
 
-
+### __<u>Rock Paper Scissors with <i>Python</i>:snake:</u>__
 
 ![Image](https://nypost.com/wp-content/uploads/sites/2/2020/04/rock-paper-scissor.jpg?quality=80&strip=all&w=618&h=410&crop=1)
 
