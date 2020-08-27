@@ -12,7 +12,7 @@
 
 Run the simple.py (current main file) on a shell/terminal
 
-**`> python [python3] simple.py`**
+**`> python [python3] main.py`**
 
 
 
@@ -21,7 +21,7 @@ Run the simple.py (current main file) on a shell/terminal
 ## Plans :house:
 
 * Create a GUI for the game
-* A better interface (OOP)
+* A better interface (OOP) ✔
 * Hopefully, an AI based play
 
 > I know its much but I'll learn all the how tos and will update it in future! :blush:
