@@ -1,3 +1,4 @@
+import datetime
 from player import Player, Ticky
 
 def winCheck(choice1: int, choice2: int) -> bool:
@@ -72,7 +73,7 @@ while rounds:
         continue
 
     # Calculate result
-    player_status = winCheck(player_choice, ticky_choice)
+    player_status = winCheck(player_weight, ticky_weight)
 
     # Result of the round
     if player_status:
@@ -88,7 +89,7 @@ if player.get_score() >= rounds_to_win:
     print('Your name will be registered in the hall of fame!')
 
     # Registering to hall of fame
-    # with open('hall_of_fame.md', 'a') as f:
-    #     f.write(f'### {name}' + '\n')
+    with open('hall_of_fame.md', 'a') as f:
+        f.write(f'## {name} {datetime.datetime.now()}' + '\n')
 else:
     print('\nToo bad! You lost 🙁')
