@@ -1,7 +1,6 @@
 # PyRocSci ༼ つ ◕_◕ ༽つ
-### 							 											 __<u>Rock Paper Scissors with <i>Python</i>:snake:</u>__
 
-
+### __<u>Rock Paper Scissors with <i>Python</i>:snake:</u>__
 
 ![Image](https://nypost.com/wp-content/uploads/sites/2/2020/04/rock-paper-scissor.jpg?quality=80&strip=all&w=618&h=410&crop=1)
 
@@ -13,7 +12,7 @@
 
 Run the simple.py (current main file) on a shell/terminal
 
-**`> python [python3] simple.py`**
+**`> python [python3] main.py`**
 
 
 
@@ -22,7 +21,7 @@ Run the simple.py (current main file) on a shell/terminal
 ## Plans :house:
 
 * Create a GUI for the game
-* A better interface (OOP)
+* A better interface (OOP) ✔
 * Hopefully, an AI based play
 
 > I know its much but I'll learn all the how tos and will update it in future! :blush:
