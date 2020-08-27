@@ -1,5 +1,5 @@
 # PyRocSci ༼ つ ◕_◕ ༽つ
-### 							 ****************** <u>Rock Paper Scissors with <i>Python</i>:snake:</u> ******************
+### 							 											 __<u>Rock Paper Scissors with <i>Python</i>:snake:</u>__
 
 
 
